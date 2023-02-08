@@ -1,0 +1,7 @@
+Programming Assignment 1
+
+Distributed Systems (Winter 2023)
+
+To build a functional web server - Test Text File
+
+Sample Text File to check the working of the webs= server response to a text file
