@@ -1,5 +1,4 @@
 # Distributed_System_COEN
-To share Assignments
 
 The goal of this programming assignment is to build a functional web server. 
 
